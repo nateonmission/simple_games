@@ -1,0 +1,1 @@
+This is a simple Tic-Tac-Toe (Naughts & Crosses) game, written in Python.  It's both my first application and my first attempt at using Git and GitHub.
