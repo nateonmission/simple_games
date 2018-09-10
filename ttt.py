@@ -2,7 +2,7 @@
 import random
 import time
 import os
-
+# This is a comment
 # My global variables
 possibleMoves = ['a',  'c', 'g', 'i', 'b', 'd', 'e', 'f', 'h']
 playerNames = []
